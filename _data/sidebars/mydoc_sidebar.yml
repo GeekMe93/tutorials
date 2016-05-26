@@ -2,8 +2,8 @@
 
 entries:
 - title: sidebar
-  product: Jekyll Doc Theme
-  version: 5.0
+  product: Transimission Electron Microscopy
+  version: 
   folders:
 
   - title:
@@ -48,7 +48,7 @@ entries:
       url: /mydoc_support/
       output: web, pdf
 
-  - title: Installation
+  - title: CTEM
     output: web, pdf
     folderitems:
 
@@ -64,7 +64,7 @@ entries:
       url: /mydoc_install_jekyll_on_windows/
       output: web, pdf
 
-  - title: Authoring
+  - title: STEM
     output: web, pdf
     
     folderitems:

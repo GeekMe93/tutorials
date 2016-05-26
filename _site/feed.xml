@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title></title>
-        <description>Intended as a documentation theme based on Jekyll for technical writers documenting software and other technical products, this theme has all the elements you would need to handle multiple products with both multi-level sidebar navigation, tags, and other documentation features.</description>
+        <description>Research tutorial notes@NUS for sharing and learning.</description>
         <link>http://jiadong.co/tutorials/</link>
         <atom:link href="http://jiadong.co/tutorials/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 27 May 2016 02:56:14 +0800</pubDate>
-        <lastBuildDate>Fri, 27 May 2016 02:56:14 +0800</lastBuildDate>
+        <pubDate>Fri, 27 May 2016 03:27:04 +0800</pubDate>
+        <lastBuildDate>Fri, 27 May 2016 03:27:04 +0800</lastBuildDate>
         <generator>Jekyll v3.0.3</generator>
         
         <item>
