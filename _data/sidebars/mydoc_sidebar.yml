@@ -52,6 +52,10 @@ entries:
     output: web, pdf
     folderitems:
 
+    - title: YAML tutorial
+      url: /mydoc_yaml_tutorial_copy/
+      output: web, pdf
+
     - title: About Ruby, Gems, Bundler, etc.
       url: /mydoc_about_ruby_gems_etc/
       output: web, pdf

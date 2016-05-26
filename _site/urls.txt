@@ -48,6 +48,13 @@ mydoc_support:
 
 
  
+mydoc_yaml_tutorial_copy:
+  title: "YAML tutorial"
+  url: /tutorials/mydoc_yaml_tutorial_copy/
+  link: <a href="/tutorials/mydoc_yaml_tutorial_copy/">YAML tutorial</a>
+
+
+ 
 mydoc_about_ruby_gems_etc:
   title: "About Ruby, Gems, Bundler, etc."
   url: /tutorials/mydoc_about_ruby_gems_etc/
