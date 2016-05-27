@@ -1,3 +1,5 @@
+## Only allowed tags can be used in your markdown frontmatter
+
 allowed-tags:
   - getting_started
   - content_types

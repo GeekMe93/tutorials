@@ -5,23 +5,23 @@ entries:
   levels: one
   folders:
 
-  - title: Products
+  - title: Notes
     output: web
     folderitems:
     - title: Home
       url: /
       output: web
       type: homepage
-    - title: News
-      url: /news/
+    - title: About
+      url: /about/
       output: web
-    - title: Theme instructions
+    - title: TEM
       url: /mydoc_introduction/
       output: web
-    - title: Product 1
+    - title: Research
       url: /p1_landing_page/
       output: web
-    - title: Product 2
+    - title: Quantum Mechanics
       url: /p2_landing_page/
       output: web
 
