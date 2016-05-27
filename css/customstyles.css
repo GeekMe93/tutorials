@@ -1,5 +1,5 @@
 body {
-    font-size:15px;
+    font-size:16px;    /* change from 15px to 16px */
 }
 
 .bs-callout {
@@ -353,9 +353,9 @@ a.accordion-toggle, a.accordion-collapsed {
     color: #333;
     display: block;
     outline: none;
-    /*-webkit-border-radius: 4px;
+    -webkit-border-radius: 4px;
     -moz-border-radius: 4px;
-    border-radius: 4px;*/
+    border-radius: 4px;              /* border radius */
     text-decoration: none;
 }
 
@@ -440,6 +440,7 @@ ul#mysidebar {
 span.projectTitle {
     font-family: Helvetica;
     font-weight: bold;
+    color: #61dafb;
 }
 
 .footer {
@@ -607,8 +608,13 @@ a.fa.fa-envelope-o.mailto {
     font-weight: 600;
 }
 
-h3 {color: #ED1951; font-weight:normal; font-size:130%;}
-h4 {color: #808080; font-weight:normal; font-size:120%; font-style:italic;}
+h2  {
+    font-size:24px;
+    line-height:29px;
+}
+
+h3 {font-weight:normal; font-size:130%;}
+h4 {font-weight:normal; font-size:120%;}
 
 .alert, .callout {
     overflow: hidden;
@@ -678,10 +684,6 @@ button.cursorNorm {
     cursor: pointer;
 }
 
-h2  {
-    font-size:24px;
-    line-height:29px;
-}
 span.otherProgrammingLanguages {
     font-style: normal;
 }

@@ -599,7 +599,7 @@ pre {
 code {
   padding: 2px 4px;
   font-size: 90%;
-  color: #444;
+  color: #c7254e;   /* modified*/
   background-color: #f0f0f0;
   white-space: nowrap;
   border-radius: 4px;
@@ -3905,7 +3905,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
   border-color: #5c8840;
 }
 .navbar-inverse .navbar-brand {
-  color: #f9faf9;
+  color: #61dafb;  /* modified for home icon */
 }
 .navbar-inverse .navbar-brand:hover,
 .navbar-inverse .navbar-brand:focus {
@@ -3916,7 +3916,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
   color: #f9faf9;
 }
 .navbar-inverse .navbar-nav > li > a {
-  color: #f9faf9;
+  color: #ddd;     /* modified */
 }
 .navbar-inverse .navbar-nav > li > a:hover,
 .navbar-inverse .navbar-nav > li > a:focus {

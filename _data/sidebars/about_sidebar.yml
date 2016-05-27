@@ -1,0 +1,104 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: Sidebar
+  product: Jekyll Documentation Theme
+  version: 
+  folders:
+
+  - title:
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title:
+      url: /titlepage/
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage/
+      output: pdf
+      type: frontmatter
+#------------------------------------------------------------------------------
+#  Overview
+#------------------------------------------------------------------------------
+  - title: Overview
+    output: web, pdf
+    folderitems:
+
+    - title: Get started
+      url: /about_overview/
+      output: web, pdf
+
+#------------------------------------------------------------------------------
+#  Components
+#------------------------------------------------------------------------------
+
+  - title: Components
+    output: web, pdf
+    
+    folderitems:
+    - title: Tooltips
+      url: /about_adding_tooltips/
+      output: web, pdf
+
+    - title: Alerts
+      url: /about_alerts/
+      output: web, pdf
+
+    - title: Icons
+      url: /about_icons/
+      output: web, pdf
+
+    - title: Images
+      url: /about_images/
+      output: web, pdf
+
+    - title: Labels
+      url: /about_labels/
+      output: web, pdf
+
+    - title: Links
+      url: /about_hyperlinks/
+      output: web, pdf
+
+    - title: Navtabs
+      url: /about_navtabs/
+      output: web, pdf
+
+    - title: Tables
+      url: /about_tables/
+      output: web, pdf
+
+    - title: Code highlighting
+      url: /about_syntax_highlighting/
+      output: web, pdf
+
+#------------------------------------------------------------------------------
+#  Layouts
+#------------------------------------------------------------------------------
+
+  - title: Layouts
+    output: web, pdf
+    folderitems:
+    - title: Knowledge-base layout
+      url: /mydoc_kb_layout/
+      output: web, pdf
+
+    - title: Glossary layout
+      url: /mydoc_glossary/
+      output: web, pdf
+
+    - title: FAQ layout
+      url: /mydoc_faq_layout/
+      output: web, pdf
+
+#------------------------------------------------------------------------------
+#  Sample
+#------------------------------------------------------------------------------
+
+  - title: Sample
+    output: web, pdf
+    folderitems:
+    - title: Sample Text
+      url: /about_sample/
+      output: web, pdf
