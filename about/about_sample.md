@@ -62,3 +62,8 @@ Here's an example of each different type of callout:
 {% include callout.html content="This is my **info** type callout. It has a border on the left whose color you define by passing a type parameter." type="info" %} 
 
 {% include callout.html content="This is my **warning** type callout. It has a border on the left whose color you define by passing a type parameter." type="warning" %} 
+
+
+## Images
+
+<img title="my sample image" src="{{ "/images/jekyll.png" | prepend: site.baseurl }}">
